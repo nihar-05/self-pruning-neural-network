@@ -1,6 +1,6 @@
 # Self-Pruning Neural Network
 
-A feed-forward neural network that **learns to prune its own weights during training** using learnable gate parameters and L1 sparsity regularisation — no post-training pruning step required.
+A feed-forward simple neural network that **learns to prune its own weights during training** using learnable gate parameters and L1 sparsity regularisation — no post-training pruning step required.
 
 Built for the Tredence Analytics AI Engineer case study.
 
